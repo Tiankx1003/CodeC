@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ostream": "cpp"
+    },
+    "files.defaultLanguage": "c", // ctrl+N新建文件后默认的语言
+}
